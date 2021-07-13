@@ -1,0 +1,3 @@
+data_record.wav----------采样率相同
+data_record1.wav---------采样率一半
+data_record2.wav---------采样率二倍
