@@ -1,10 +1,10 @@
 # signals-processing
 
-we provided three small projects focused on different subjects including sampling rate and mixing and seperation of different voices.
+we provided three small projects focused on different subjects including sampling rate and mixing and seperation of different voices.<br>
 
-Project one: influence of different sampling rate on sound recording 
-Project two: the effect of the relationship between recording and playback sampling rate on sound recording and playback
-Project three: the mixing and separation of different sounds
+Project one: influence of different sampling rate on sound recording <br>
+Project two: the effect of the relationship between recording and playback sampling rate on sound recording and playback<br>
+Project three: the mixing and separation of different sounds<br>
 
 
 文件说明：<br>
